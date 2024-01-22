@@ -1,36 +1,98 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
+Clone the project
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+  git clone https://github.com/Imranul-hoque/spotify-clone.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Go to the project directory
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+  cd my-project
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Install dependencies
 
-## Learn More
+```bash
+  npm install
+```
 
-To learn more about Next.js, take a look at the following resources:
+Start the server
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+  npm run start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Usage
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. setup database for prisma
+2. Run the application: `npm start` (or `yarn start`).
+3. Open the app in your web browser: `http://localhost:3000`.
+
+
+## Folder Structure
+
+**Actions** : This folder is concern for Nextjs 14 new stable feature server actions
+
+**Provider** : provider folder is only concern for application provider
+
+**Prisma** : Prisma ORM for make automate database migrations process easy
+
+**App** : That one is main for the app router in next js. This folder is so important for file based routing system
+
+**Components** : All utility functions goes into components folder
+
+
+
+
+## Contact
+
+For questions or support, please contact [Your Name] at [imran.contuct@gmail.com].
+
+# Hi, I'm Imranul Hoque! 👋
+
+
+## 🛠 Tech
+`Html` `Css` `Javascript` `Nextjs` `Tailwindcss` `Typescript` `Nodejs` `Nestjs` and related tech
+
+
+## Music Platform
+
+<img src="./images/todo_app.png" width="600" height="300" title="Music" />
+
+
+## User Authentication and Authorization:
+Implement secure user authentication to allow users to create accounts and log in.
+Role-based access control for different user privileges.
+
+## Task Management:
+Create, edit, and delete tasks with ease.
+Prioritize tasks with different levels of urgency or importance.
+Assign tasks to specific users or collaborators.
+
+## Task Details and Subtasks:
+Allow users to add detailed information to tasks.
+Support subtasks or checklist items within each task for better organization.
+
+## Due Dates and Reminders:
+Set due dates for tasks to stay organized and meet deadlines.
+Implement reminders and notifications to alert users of upcoming tasks.
+
+## Project Organization:
+Categorize tasks into projects or categories.
+Provide filtering and sorting options for better organization.
+
+## Task Reordering:
+Users can easily rearrange the order of tasks within a list by dragging and dropping them.
+
+## Project Reorganization:
+Extend the drag-and-drop feature to allow users to reorder entire projects or categories.
+
+## Priority Adjustment:
+Enable users to change the priority of tasks by dragging them to a higher or lower position in the list.
+
+
+
+
+

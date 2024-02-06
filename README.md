@@ -59,7 +59,7 @@ For questions or support, please contact [Your Name] at [imran.contuct@gmail.com
 
 ## Music Platform
 
-<img src="./images/todo_app.png" width="600" height="300" title="Music" />
+![Master](./images/todo_app.png)
 
 
 ## User Authentication and Authorization:

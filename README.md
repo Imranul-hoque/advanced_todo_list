@@ -1,7 +1,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Imranul-hoque/spotify-clone.git
+  git clone https://github.com/Imranul-hoque/advanced_todo_list.git
 ```
 
 Go to the project directory
@@ -56,8 +56,6 @@ For questions or support, please contact [Your Name] at [imran.contuct@gmail.com
 ## 🛠 Tech
 `Html` `Css` `Javascript` `Nextjs` `Tailwindcss` `Typescript` `Nodejs` `Nestjs` and related tech
 
-
-## Music Platform
 
 ![Master](./images/todo_app.png)
 
